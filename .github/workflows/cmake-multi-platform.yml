@@ -83,7 +83,7 @@ jobs:
         fi
         
         # Command-line arguments (adjust as needed)
-        cmd_args="--iter 10000 --trials 3"
+        cmd_args="--iter 10000 --trial 3"
 
         # Check if the file exists before trying to run it
         echo "Checking if executable exists: $executable_path"
